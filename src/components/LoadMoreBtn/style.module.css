@@ -1,0 +1,12 @@
+.loadMoreBtn {
+  background-color: rgb(26, 141, 218);
+  color: #fff;
+  display: block;
+  margin: 0 auto 20px;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.loadMoreBtn:hover {
+  opacity: 0.9;
+}
